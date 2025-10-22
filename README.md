@@ -1,3 +1,4 @@
 # git-demo
-my first git repository
-author:zark babi
+my first git repository.
+<br>
+author:zark babi.
